@@ -1,0 +1,25 @@
+.avatar{
+	height: 64px;
+	width: 64px;
+}
+.user-name{
+	color: #b0bec5;
+}
+.name{
+	color: rgba(0,0,0,0.8);
+}
+.date{
+	color: #b0bec5;
+}
+.description{
+	line-height: 1.2 !important;
+	color: rgba(0,0,0,0,0.7);
+}
+.jumbotron{
+	color: #ffffff;
+	background: #e83e8c;
+}
+
+.jumbotron a{
+	color: #ffffff !important;
+}

@@ -1,6 +1,18 @@
+body{
+	font-family: 'Roboto', sans-serif !important;
+}
+html{
+	font-family: 'Roboto', sans-serif !important;
+}
+.post{
+	font-family: 'Noto Serif TC', serif !important;
+	color: #444443;
+	font-size: 18px;
+}
 .avatar{
 	height: 64px;
 	width: 64px;
+	border: 3px solid #e83e8c;
 }
 .user-name{
 	color: #b0bec5;
